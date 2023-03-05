@@ -1,3 +1,11 @@
+require "bundler/inline"
+
+gemfile do
+  source "https://rubygems.org"
+  gem "minitest"
+  gem "rails-dom-testing"
+end
+
 require "minitest/autorun"
 require "rails/dom/testing/assertions"
 
