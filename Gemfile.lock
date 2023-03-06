@@ -12,19 +12,29 @@ GEM
     minitest (5.18.0)
     nokogiri (1.14.2-aarch64-linux)
       racc (~> 1.4)
+    nokogiri (1.14.2-arm64-darwin)
+      racc (~> 1.4)
     racc (1.6.2)
+    rack (3.0.4.2)
+    rackup (2.1.0)
+      rack (>= 3)
+      webrick (~> 1.8)
     rails-dom-testing (2.0.3)
       activesupport (>= 4.2.0)
       nokogiri (>= 1.6)
     rake (13.0.6)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
+    webrick (1.8.1)
 
 PLATFORMS
   aarch64-linux
+  arm64-darwin-21
 
 DEPENDENCIES
   minitest
+  rack
+  rackup
   rails-dom-testing
   rake
 
