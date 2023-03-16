@@ -65,3 +65,11 @@ This assignment uses automated tests to check for the presence of the required H
 ```bash
 rake test
 ```
+
+## Viewing Your Webpage
+
+We've installed a tiny webserver in the development container so you can view your webpage. Try running:
+
+`rackup`
+
+in the terminal to start it up!
