@@ -24,8 +24,12 @@
         "showReuseMessage": true,
         "clear": false
       },
+      "runOptions": {
+        "runOn": "folderOpen"
+      },
+      "isBackground": true,
       "type": "shell",
-      "command": "rackup"
+      "command": "rackup",
     }
   ],
 }
