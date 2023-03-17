@@ -73,3 +73,8 @@ We've installed a tiny webserver in the development container so you can view yo
 `rackup`
 
 in the terminal to start it up!
+
+## HTML Introduction Materials
+
+* https://www.theodinproject.com/lessons/foundations-introduction-to-html-and-css
+* https://www.youtube.com/watch?v=ItZN6o0ylao&list=PLfloRV9R6_kRQihyrQV9eVYt32KNGqXRo
